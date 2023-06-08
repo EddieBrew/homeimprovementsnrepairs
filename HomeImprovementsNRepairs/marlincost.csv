@@ -1,0 +1,74 @@
+DATE,AREA,ITEMS,COST,RECEIPT FILE NAME,INFO,VALUE ADDED
+11/4/2020,GARAGE,WASHER,592,,Samsung washer ,FALSE
+11/4/2020,GARAGE,DRYER,592,,Samsung dryer,FALSE
+11/4/2020,KITCHEN,OVEN,40,,GE oven gasket replacemnet,TRUE
+11/20/2020,LIVING ROOM,TILE,87,,Tile cleaning for all rooms,FALSE
+11/28/2020,LIVING ROOM,FLOOR,81,,Rug for living room coffee table,FALSE
+11/8/2020,LIVING ROOM,WALLS,30,,Paint for various rooms and doors,TRUE
+11/8/2020,BDRM1,WALLS,15,,Paint for various rooms and doors,TRUE
+11/8/2020,BDRM2,WALLS,15,,Paint for various rooms and doors,TRUE
+11/8/2020,BDRM3,WALLS,12,,Paint for various rooms and doors,TRUE
+11/8/2020,HALLWAY,WALLS,30,,Paint for various rooms and doors,TRUE
+11/8/2020,LIVING ROOM,WALLS,60,,Paint for various rooms and doors,TRUE
+11/8/2020,BRDM4,WALLS,15,,Paint for various rooms and doors,TRUE
+11/27/2020,KITCHEN,MISC,20,,Fire extinguisher for kitchen and bedroom,FALSE
+11/27/2020,BDRM3,MISC,20,,Fire extinguisher for kitchen and bedroom,FALSE
+11/11/2020,LIVING ROOM,DOORS,85,,Curtains and rods for patio door,TRUE
+11/25/2020,BRDM1,WINDOWS,180,,Window blinds from Lowe's for 5 windows all bedrooms & kitchen,TRUE
+11/25/2020,BRDM2,WINDOWS,180,,Window blinds from Lowe's for 5 windows all bedrooms & kitchen,TRUE
+11/25/2020,BRDM3,WINDOWS,180,,Window blinds from Lowe's for 5 windows all bedrooms & kitchen,TRUE
+11/25/2020,BRDM4,WINDOWS,180,,Window blinds from Lowe's for 5 windows all bedrooms & kitchen,TRUE
+11/25/2020,KITCHEN,WINDOWS,180,,Window blinds from Lowe's for 5 windows all bedrooms & kitchen,TRUE
+11/11/2020,LIVING ROOM,DOORS,30,,Patio door curtains,TRUE
+11/6/2020,GARAGE,MISC,25,,Garage door openers - remote,TRUE
+11/10/2020,BDRM1,WINDOWS,20,,Ring alarm window sensors in 4 bedrooms,TRUE
+11/10/2020,BDRM2,WINDOWS,20,,Ring alarm window sensors in 4 bedrooms,TRUE
+11/10/2020,BDRM3,WINDOWS,20,,Ring alarm window sensors in 4 bedrooms,TRUE
+11/10/2020,BDRM4,WINDOWS,20,,Ring alarm window sensors in 4 bedrooms,TRUE
+11/18/2020,BATH2,SHOWER/TUB,35,,AquaSpa shower head,FALSE
+11/17/2020,BDRM3,LIGHTS,25,,Light fixture for room closet,TRUE
+12/1/2020,GARAGE,MISC,50,,Reciprocating saw,FALSE
+12/9/2020,HALLWAY,MISC,25,,Smoke & CO2 alarm,TRUE
+11/4/2020,LIVING ROOM,MISC,295,,Ring security alarm & Alexia for whole house,TRUE
+11/4/2020,FRONT ENTRY,DOORS,125,,Ring video door bell,TRUE
+11/4/2020,GARAGE,DOORS,25,,Entry door lock replacement,FALSE
+11/5/2020,FRONT ENTRY,DOORS,25,,Entry door lock replacement,FALSE
+11/6/2020,KITCHEN,DOORS,25,,Entry door lock replacement,FALSE
+11/11/2020,KITCHEN,MISC,60,,Microwave for kitchen,FALSE
+11/25/2020,LIVING ROOM,CHIMNEY,248,,Fireplace screen door,TRUE
+11/7/2020,GARAGE,MISC,125,,Power drill plus drill bits,FALSE
+11/8/2020,GARAGE,MISC,25,,"Caulk, fan chain knob, misc supplies",FALSE
+11/8/2020,LIVING ROOM,MISC,25,,Paint tools for all rooms,FALSE
+11/8/2020,LIVING ROOM,MISC,50,,"Misc home cleaning supplies, sweep, garbage bags",FALSE
+11/8/2020,FRONTYARD,MISC,25,,Garden hose & sprinkler,FALSE
+11/8/2020,BATH2,MISC,25,,Bathroom repairs,TRUE
+11/14/2020,BATH1,TOILET,22,,"Soldering iron, toilet repairs, cleaning",FALSE
+11/14/2020,BATH1,TOILET,20,,"Toilet valve, gasket repairs",TRUE
+11/14/2020,BATH2,TOILET,20,,"Toilet valve, gasket repairs",TRUE
+11/21/2020,GARAGE,MISC,40,,Torch kit and accessories,FALSE
+11/22/2020,GARAGE,SINK,105,,Faucet hardware and dryer duct repairs,TRUE
+11/22/2020,GARAGE,SINK,55,,Utility sink,TRUE
+11/28/2020,KITCHEN,MISC,65,,Kitchen liners and kitchen garbage can,FALSE
+11/27/2020,KITCHEN,REFRIG,50,,Water filter for refrigerator,FALSE
+11/27/2020,GARAGE,MISC,35,,Mail slot for garage,TRUE
+11/27/2020,GARAGE,WALLS,17,,"Wall repair, patch kits, sparking",TRUE
+11/28/2020,GARAGE,WALLS,17,,Laundry sink fixture,TRUE
+11/28/2020,GARAGE,OUTLETS,13,,Electrical outlets,TRUE
+11/28/2020,GARAGE,WALLS,12,,wall patch kit,TRUE
+11/29/2020,GARAGE,WALLS,20,,"Wood, electrical outlet cover, caulk",TRUE
+12/4/2020,FRONTYARD,WALLS,65,,"Exterior paint, patch",TRUE
+12/4/2020,FRONTYARD,MISC,65,,Waterpipe insulation ,TRUE
+12/4/2020,FRONTYARD,LIGHTS,97,,Ring flood light,TRUE
+12/11/2020,ROOF,CHIMNEY,57,,Chimney Cap,TRUE
+12/11/2020,BATH2,MISC,17,,Towel bars,TRUE
+12/11/2020,BATH1,MISC,17,,Towel bars,TRUE
+12/11/2020,GARAGE,WALLS,12,,Garage vent screen,TRUE
+12/11/2020,BRDM3,FAN,72,,Ceiling fan,TRUE
+12/16/2020,FRONTYARD,LIGHTS,65,,Ring bridge,TRUE
+12/16/2020,LIVING ROOM,MISC,24,,Heat vent deflectors for all rooms,TRUE
+12/20/2020,GARAGE,MISC,60,,"Garage electical work, outlets, plates",TRUE
+12/20/2020,BACKYARD,MISC,10,,Waterpipe insulation,TRUE
+12/22/2020,FRONT ENTRY,MISC,20,,Floor mats,FALSE
+12/22/2020,GARAGE,MISC,20,,Floor mats,FALSE
+12/27/2020,GARAGE,WINDOWS,18,,Blinds for garage window,TRUE
+12/31/2020,FRONTYARD,MISC,36,,Plumber's snake & drain grate,FALSE
