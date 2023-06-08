@@ -62,7 +62,7 @@ public class About {
 		lblPageName.setBounds(10, 11, 157, 30);
 		frame.getContentPane().add(lblPageName);
 
-		JLabel lblTitle = new JLabel("<html>HomeImprovementsNRepairs Version 3.2<br>\r\n@ Dec 2022 Created with Eclipse <br>\r\n<br>\r\n\r\nVersion 3.2 updates: <br>\r\n1)Format HomeData Object date from mm/dd/YYYY to YYYY-mm-dd<br>\r\n        to meet MYSQL database date forma<br>\r\n2)Updated methods that parsed HomeData date string to include new format<br>\r\n3) Created and also stored data into a MYSQL database\r\n\r\n\r\n");
+		JLabel lblTitle = new JLabel("<html>HomeImprovementsNRepairs Version 3.3<br>\r\n@ Dec 2022 Created with Eclipse <br>\r\n<br>\r\n\r\nVersion 3.2 updates: <br>\r\n1)Format HomeData Object date from mm/dd/YYYY to YYYY-mm-dd<br>\r\n        to meet MYSQL database date forma<br>\r\n2)Updated methods that parsed HomeData date string to include new format<br>\r\n3) Created and also stored data into a MYSQL database\r\n\r\n\r\n");
 		lblTitle.setFont(new Font("Tahoma", Font.BOLD, 12));
 		lblTitle.setVerticalAlignment(SwingConstants.TOP);
 		lblTitle.setBounds(10, 52, 481, 124);
